@@ -18,7 +18,7 @@ This Python application utilizes OpenCV and MediaPipe for real-time pose estimat
 
 2. **Navigate to the project directory:**
     ```bash
-    cd pose-estimation-rep-counter
+    cd pose estimator
     ```
 
 3. **Install Dependencies:**
@@ -28,7 +28,7 @@ This Python application utilizes OpenCV and MediaPipe for real-time pose estimat
 
 4. **Run the Script:**
     ```bash
-    python rep_counter.py
+    python app.py
     ```
 
 5. **Interpretation:**
