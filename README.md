@@ -40,10 +40,6 @@ This Python application utilizes OpenCV and MediaPipe for real-time pose estimat
 - **OpenCV:** A powerful computer vision library for image and video processing.
 - **MediaPipe:** A library for face, hand, and pose detection.
 
-### Contributing
-
-Contributions are welcome! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
