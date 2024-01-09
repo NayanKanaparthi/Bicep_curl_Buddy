@@ -13,7 +13,7 @@ This Python application utilizes OpenCV and MediaPipe for real-time pose estimat
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/pose-estimation-rep-counter.git
+    https://github.com/NayanKanaparthi/Bicep_curl_Buddy.git
     ```
 
 2. **Navigate to the project directory:**
